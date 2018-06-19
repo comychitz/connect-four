@@ -11,10 +11,10 @@ lessen the search space). Further optimizations are planned to be added in the
 near future (mainly multithreading capabilities & better heuristics).
 
 ## To Run Using GUI
-`python GUI.py`
+`$ python GUI.py`
 
 ## To Run on Command Line
-`python ConnectFour.py`
+`$ python ConnectFour.py`
 
 ### Other Notes
 * If running the GUI on a machine that is not windows based, the GUI may not

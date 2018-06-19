@@ -23,3 +23,6 @@ near future (mainly multithreading capabilities & better heuristics).
  line. This cannot be run using an IDE. For example, "python test.py 2 3" will
  play two computers against each other one with depth 2 and one with depth 3 in
  the Minimax algorithm.
+
+### TODOs
+* Heuristic needs improvement, too basic, moves are not strong enough.

@@ -14,7 +14,7 @@ near future (mainly multithreading capabilities & better heuristics).
 `python GUI.py`
 
 ## To Run on Command Line
-`pythong ConnectFour.py`
+`python ConnectFour.py`
 
 ### Other Notes
 * If running the GUI on a machine that is not windows based, the GUI may not
